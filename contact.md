@@ -5,9 +5,9 @@ permalink: /contact/
 author_profile: true
 ---
 
-## Table of Contents
 
-- [📫Email](#📫email)
+
+* [📫Email](#📫email)
 * [📶Social Media](#📶social-media)
 
 
